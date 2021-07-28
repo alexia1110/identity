@@ -1,0 +1,8 @@
+{
+  "name": "identity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5199d01b"
+}
